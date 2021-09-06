@@ -43,11 +43,25 @@ int main()
         break;
     case 2:
             system("CLS");
-            cout << "Creditos" << endl;
+            cout << "\t\t+--------------------------------------+" << endl;
+            cout << "\t\t|               Créditos               |" << endl;
+            cout << "\t\t+--------------------------------------+" << endl;
+            cout << "\t\t|                                      |" << endl;
+            cout << "\t\t|  Eduardo                             |" << endl;
+            cout << "\t\t|                                      |" << endl;
+            cout << "\t\t|  Michel                              |" << endl;
+            cout << "\t\t|                                      |" << endl;
+            cout << "\t\t|  Manu                                |" << endl;
+            cout << "\t\t|                                      |" << endl;
+            cout << "\t\t+--------------------------------------+" << endl;
         break;
     case 3:
             system("CLS");
-            cout << "GitHub: https://github.com/Ed2002/Univalli-Trabalho1-M1" << endl;
+            cout << "\t\t+---------------------------------------------------------+" << endl;
+            cout << "\t\t|                                                         |" << endl;
+            cout << "\t\t| GitHub: https://github.com/Ed2002/Univalli-Trabalho1-M1 |" << endl;
+            cout << "\t\t|                                                         |" << endl;
+            cout << "\t\t+---------------------------------------------------------+" << endl;
         break;
     default:
             system("CLS");
