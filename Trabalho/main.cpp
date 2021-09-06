@@ -38,7 +38,7 @@ int main()
         break;
     case 2:
             system("CLS");
-            cout << "Creditos" << endl;
+            cout << "Creditos: Eduardo, Michel e Manu" << endl;
         break;
     case 3:
             system("CLS");
