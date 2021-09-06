@@ -6,8 +6,8 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "Portuguese");
-
     int start;
+    string player_name;
     system("color 02");
     cout << "\t\t+---------------------------------------------------------------------+" << endl;
     cout << "\t\t|                                                                     |" << endl;
@@ -30,7 +30,12 @@ int main()
     {
     case 1:
             system("CLS");
-            cout << "Bem vindo" << endl;
+            cout << "Digite seu nome:";
+            cin >> player_name;
+            cout << endl;
+            system("CLS");
+            system("color 09");
+            cout << "Olá, " << player_name << "!" << endl;
         break;
     case 0:
             system("CLS");
