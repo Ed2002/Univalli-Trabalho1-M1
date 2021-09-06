@@ -51,7 +51,7 @@ int main()
             cout << "\t\t|                                      |" << endl;
             cout << "\t\t|  Michel                              |" << endl;
             cout << "\t\t|                                      |" << endl;
-            cout << "\t\t|  Manu                                |" << endl;
+            cout << "\t\t|  Malu                                |" << endl;
             cout << "\t\t|                                      |" << endl;
             cout << "\t\t+--------------------------------------+" << endl;
         break;
