@@ -30,7 +30,7 @@ int main()
     {
     case 1:
             system("CLS");
-            cout << "Digite seu nome:";
+            cout << "Digite seu nome: ";
             cin >> player_name;
             cout << endl;
             system("CLS");
